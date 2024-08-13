@@ -1,0 +1,9 @@
+.wishlistButton{
+    width: 56px;
+    height: 56px;
+    border: none;
+    cursor: pointer;
+}
+.wishlistButton:hover{
+    background: rgba(0, 0, 0, .04);
+}

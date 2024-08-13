@@ -1,0 +1,13 @@
+.personButton{
+    display: flex;
+    border: none;
+    height: 56px;
+    width: auto;
+    padding: 0 12px;
+    cursor: pointer;
+    align-items: center;
+    margin: 0 0 0 10px;
+}
+.personButton:hover{
+    background: rgba(0, 0, 0, .04);
+}
