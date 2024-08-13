@@ -1,0 +1,11 @@
+.mainContainer{
+    background-color: #fff;
+}
+
+.flexContentContainer{
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 18px 12px;
+    align-items: center;
+    justify-content: space-between;
+}

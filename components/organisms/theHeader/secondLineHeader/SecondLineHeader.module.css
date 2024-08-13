@@ -1,0 +1,16 @@
+.mainContainer{
+    height: 56px;
+    width: 100%;
+    background: #f2eff1;
+}
+
+.flexContentContainer{
+    max-width: var(--max-width);
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerControlsFlexContainer{
+    flex: 1 1;
+}
